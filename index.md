@@ -2,20 +2,40 @@
 
  Staging is the time after training where an associate prepares for interviews, transitioning onto client and furthering their technical knowledge. 
  
-This site is a guide for the weekly activities and supplemental materials.For additional questions or clarity please reach out to your respective Staging Manager. 
+This site is a guide for the weekly activities and supplemental materials. For additional questions or clarity please reach out to your respective Staging Manager. 
 
 ## Weekly Activities
 
 - Stand-Ups - via Zoom or Google Form
+  - Days for the Stand-up form are designated by your Staging Manager
 - Daily Coding Challenges
+  - Posted in the slack channel - these are optional
 - 1on1's - Either check-in based or technical
+  - Calendar appointment slots will be posted in the Slack channel 
 - Weekly Sprint Form 
+  - To be completed each week - choose from the following tracks:
+    - Interview Preparation
+    - Certification Preparation
+    - Projects - either Incubator or Team based
+
+
 -----
-- Kahoot Tournament - Tuesdays
-- Hot Seat Interview Exercise - Wednesday
-s
-- CodeSignal Tournament - Thursdays
-- Project proposal/demos - Fridays
+- **Kahoot Tournament** - Tuesdays - kahoot.it 
+  - Multiple choice questions played against all of the staging locations. Simply join on your phone or in browser and type in the provided Kahoot pin and choose a name that also denotes your staging location (i.e UTA-Emily, USF-Julie)
+- **Hot Seat Interview Exercise** - Wednesdays
+  - https://docs.google.com/spreadsheets/d/1YlqK6gM9HTplihwroQgVYzN-LfkACLAW/edit#gid=1116380155
+  - You are put in groups of 3 (sometimes we have to do 2 or 4), primarily with people you do not routinely work with. 
+  - You will be split into breakout rooms in a Zoom Meeting — Please change your name to reflect your tech stack and trainer (ie <tech stack> - <trainer> - <your name>)
+  - One person serves as interviewer, one as interviewee, and one as scribe. The scribe takes notes on the interview. These notes are to be shared with each other and with the staging manager you report to. Electronic format for note-taking is recommended.
+  - Please note both technical expertise in the answer as well as soft skills. This should be a constructive exercise for everyone.
+  - After one person has been interviewed for 15-20 minutes (minimum), switch roles! Continue until each person has performed each role. The notes document can be a single document if preferred.
+  - Feel free to use this document as a guide for questions, you can also use your own questions as well. If you use the provided question bank, please duplicate it and name it with your group member names.
+- **CodeSignal Tournament** - Thursdays
+  - Language agnostic coding challenge comprised of 3 challenges to be completed in 50 min.
+  - Visit codesignal.com before joining the tournament and play through some of the arcade challenges so you have enough coins to join in the Staging Tournament.
+- **Project proposal/demos** - Fridays
+  - Weekly sprints are discussed and progress is shown 
+-----------------------------
 
 ## Study Materials
 
@@ -36,9 +56,11 @@ s
 
 **Misc**
 - Free intro courses can also be found here: Qwiklabs.com
+
+------------------
 ## Interview Preparation
 
-### Common Interview Issues:
+### **Common Interview Issues:**
 - Unable to understand the Interviewer's Accent 
   -  Politely ask them to repeat themselves or if they can rephrase the question.
 - What is your Industry Equivalency -
@@ -52,7 +74,7 @@ Keep in mind the interviewers will even ask how long it would take you to learn 
   - They are looking for analytical skills, being able to understand what the problem is asking and choosing specific approaches shows your capability to solve complex problems.
 
 
-### The "Big Five" Questions Asked:
+### **The "Big Five" Questions Asked:**
 1. Introduce yourself based on your technical background -- 60 - 90 seconds, do not rush 
     - Name, basic information, college experience (graduation year and degree)
     - Talk about any previous technical experience
@@ -70,27 +92,8 @@ Keep in mind the interviewers will even ask how long it would take you to learn 
 5. What was the biggest challenge during the project?
     - Talk about a challenge that you had during your project and how you overcame it. Also include how you would prevent it from happening in the future.
     - Important to not be overly negative about the challenge
+---
+## Certification Preparation
 
-##
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Examples of certification questions: https://www.itexams.com/
+- Certification Books: google the book name with +github or search github specifically for free pdf versions 
