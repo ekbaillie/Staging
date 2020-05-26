@@ -97,3 +97,4 @@ Keep in mind the interviewers will even ask how long it would take you to learn 
 
 - Examples of certification questions: https://www.itexams.com/
 - Certification Books: google the book name with +github or search github specifically for free pdf versions 
+- Cloud Practitioner Guide: https://trailhead.salesforce.com/en/content/learn/trails/learn-the-aws-cloud-practitioner-essentials
