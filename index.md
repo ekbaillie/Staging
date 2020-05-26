@@ -19,19 +19,40 @@ s
 
 ## Study Materials
 
+**Docker**
+- Docker - https://labs.play-with-docker.com/
+- Playgrounds + Courses - https://katacoda.com/learn -- also has a lot of other DeveOps in browser tools
+
+**Methodologies**
+- Scrum - https://www.scrumstudy.com/classes/scrum-fundamentals-certification-training - offers some free 
+
+**Amazon Webservices**
+- AWS - Ramp-Up Guides: https://pages.awscloud.com/AWS-Traincert_Ramp-up_Guides.html - the rep from AWS stated that this gives a good representation of what you should review for each section and designated time -- he suggested using a Udemy course along with the white pages to get up to speed (there are aws udemy courses that are just practice exams as well)
+- AWS Free Webinars: https://pages.awscloud.com/NAMER_FIELD_WEBINAR_free-training-webinars.html
+
+
+**Microsoft**
+- Azure - https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals?tab=tab-learning-paths
+
+**Misc**
+- Free intro courses can also be found here: Qwiklabs.com
 ## Interview Preparation
 
 ### Common Interview Issues:
-- Unable to understand the Interviewer's Accent -- Politely ask them to repeat themselves or if they can rephrase the question.
-- What is your Industry Equivalency -- Revature's bootcamp will give you a higher Industry Equivalency then actual months you worked in said industry, so when an interviewer asks you how many years/months experience you have you can answer that you have an industry equivalency of "x" months.
-- Not knowing an answer to a question -- No one knows everything, but knowing how you would come to find that answer is. Think about what strategies you use when you run into new problems? Best bet is to tell them what you do know and follow that up with how you would find out more.
-Another simple strategy for technology you've never used before would be to say you've never had the opportunity to work with "said technology" but you are excited to learn or have looked into it briefly.
+- Unable to understand the Interviewer's Accent 
+  -  Politely ask them to repeat themselves or if they can rephrase the question.
+- What is your Industry Equivalency -
+  - Revature's training will give you a higher Industry Equivalency then actual months you worked in said industry, so when an interviewer asks you how many years/months experience you have you can answer that you have an industry equivalency of "x" months.
+- Not knowing an answer to a question 
+  -  No one knows everything, but knowing how you would come to find that answer is. Think about what strategies you use when you run into new problems? Best bet is to tell them what you do know and follow that up with how you would find out more.
+  - Another simple strategy for technology you've never used before would be to say you've never had the opportunity to work with "said technology" but you are excited to learn or have looked into it briefly.
 Keep in mind the interviewers will even ask how long it would take you to learn a new technology and how you would do so.
-- Coding Challenges -- Provide a walk through of your code, explain why you took particular routes rather than others. Remember to verbalize your thought process. 
-They are looking for analytical skills, being able to understand what the problem is asking and choosing specific approaches shows your capability to solve complex problems.
+- Coding Challenges 
+  - Provide a walk through of your code, explain why you took particular routes rather than others. Remember to verbalize your thought process. 
+  - They are looking for analytical skills, being able to understand what the problem is asking and choosing specific approaches shows your capability to solve complex problems.
 
 
-### "Big Five":
+### The "Big Five" Questions Asked:
 1. Introduce yourself based on your technical background -- 60 - 90 seconds, do not rush 
     - Name, basic information, college experience (graduation year and degree)
     - Talk about any previous technical experience
